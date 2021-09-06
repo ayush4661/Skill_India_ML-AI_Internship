@@ -11,8 +11,9 @@ JSON based Inventory management system including two programs:-
        > Display all available Products.
        > Update quantity of the product.
        > Show Product id with Product name.
+       > Find Product details using Product id.
        > Find Product quantity by Product Id.
-       > 
+
 
 2) For Purchasing the Product:
 
@@ -20,5 +21,5 @@ JSON based Inventory management system including two programs:-
 
        > Purchase a product.
        > Display all available Product's id with name.
-       > 
+       > Show available quantity of a product using Product Id.
        > Show Purchase history.
