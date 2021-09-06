@@ -22,4 +22,4 @@ JSON based Inventory management system including two programs:-
        > Purchase a product.
        > Display all available Product's id with name.
        > Show available quantity of a product using Product Id.
-       > Show Purchase history.
+       > Show Purchase history(from Sales.json file).
